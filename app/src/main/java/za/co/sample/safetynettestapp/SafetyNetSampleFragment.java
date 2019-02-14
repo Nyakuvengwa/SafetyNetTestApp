@@ -32,8 +32,6 @@ import androidx.fragment.app.Fragment;
  *
  * teractionListener} interface
  * to handle interaction events.
- * Use the {@link SafetyNetSampleFragment#newInstance} factory method to
- * create an instance of this fragment.
  */
 public class SafetyNetSampleFragment extends Fragment {
     // TODO: Rename parameter arguments, choose names that match
